@@ -6,4 +6,4 @@ The theory of Naive Bayes is not difficult to understand. Please look to my Quor
 
 # My first simple approach:
 
-1. Item I fed the subject and body of emails to a count vectorizer and I created a word-count features for each email. Subsequently, I used MultinomialNB from sklearn and I got an accuracy of 0.6 which is very bad.
+1. I fed the subject and body of emails to a count vectorizer and I created a word-count features for each email. Subsequently, I used MultinomialNB from sklearn and I got an accuracy of 0.6 which is very bad.
